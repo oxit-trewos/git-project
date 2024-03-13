@@ -1,0 +1,3 @@
+[submodule "submodule-for-project"]
+	path = submodule-for-project
+	url = https://github.com/oxit-trewos/submodule-for-project
